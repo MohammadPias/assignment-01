@@ -110,4 +110,25 @@ h2{
 .recipies-3 img{
     width: 95%;
 }
+footer{
+    background: rgb(27, 24, 24);
+    height: 200px;
+}
+.blue{
+    color: #0ba0f9;
+}
+.grey{
+    color: gray;
+}
+footer h1{
+    text-align: center;
+    margin: 5px 0;
+    padding-top: 15px;
+}
+footer h4{
+    text-align: center;
+    margin: 0;
+    font-size: 18px;
+    color: white; 
+}
 
