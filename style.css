@@ -80,7 +80,7 @@ h3{
 
 h2{
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
     margin: 5px;
 }
 .my-racipies p{
@@ -99,7 +99,7 @@ h2{
     margin-right: 2%;
     padding-left: 16px;
     padding-top: 16px;
-    box-shadow: 1px 1px 20px black;
+    box-shadow: 1px 1px 20px gray;
     border-radius: 25px;
 }
 .recipies-2{
@@ -108,7 +108,7 @@ h2{
     margin-right: 2%;
     padding-left: 16px;
     padding-top: 16px;
-    box-shadow: 1px 1px 20px black;
+    box-shadow: 1px 1px 20px gray;
     border-radius: 25px;
 }
 .recipies-2 img{
@@ -120,11 +120,14 @@ h2{
     margin-right: 6%;
     padding-left: 16px;
     padding-top: 16px;
-    box-shadow: 1px 1px 20px black;
+    box-shadow: 1px 1px 20px gray;
     border-radius: 25px;
 }
 .recipies-3 img{
     width: 95%;
+}
+p{
+    font-size: 14px;
 }
 footer{
     background: rgb(27, 24, 24);
@@ -147,5 +150,15 @@ footer h4{
     margin: 0;
     font-size: 15px;
     color: white; 
+}
+#media{
+    width: 88%;
+    margin: 100px auto;
+    box-shadow: 1px 1px 20px gray;
+    border-radius: 25px;
+}
+.social-media{
+    width: 100%;
+    margin: 20px 4%;
 }
 
